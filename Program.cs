@@ -30,7 +30,7 @@ namespace MyFirstProgram
             Console.WriteLine("What is your name?");
             string usersName = Console.ReadLine();
             Console.ReadKey();
-            Console.WriteLine("You're Name is " + usersName);
+            Console.WriteLine("Your Name is " + usersName);
             Console.ReadKey();
             Console.WriteLine("How Oldd\b are you?");
             string usersAge = Console.ReadLine();
